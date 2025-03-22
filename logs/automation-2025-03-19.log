@@ -1,0 +1,552 @@
+15:57:09.648 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:57:11.281 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:57:12.063 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:57:12.063 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:57:14.286 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:57:14.600 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:57:16.981 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:57:16.981 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:57:17.144 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:57:17.223 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:57:21.314 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+15:57:21.314 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+15:57:21.888 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:57:21.933 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:58:37.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+15:58:38.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+15:58:48.965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:49.089 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:58:55.258 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:58:55.273 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:58:55.600 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:55.723 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:58:57.875 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:58:57.876 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:58:59.352 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:59.610 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:59:00.175 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:59:00.324 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:59:01.082 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:59:01.083 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:59:02.484 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:59:02.524 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:59:05.439 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:59:05.461 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:59:26.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:59:26.996 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:59:34.465 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:59:34.571 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:59:35.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:59:35.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:59:40.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:59:40.120 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:59:46.992 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:59:48.818 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:06:29.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+16:06:29.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+16:06:36.187 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:06:36.295 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:06:38.768 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:06:38.772 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:06:43.485 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:06:43.539 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:06:52.174 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:07:03.087 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:07:57.567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+16:07:57.870 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+16:08:04.957 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:08:05.066 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:08:05.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:08:05.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:08:17.129 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:08:28.957 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:09:43.971 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+16:09:44.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+16:09:51.849 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:09:51.978 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:09:52.913 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:09:52.916 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:09:57.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:09:57.430 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:09:57.430 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:10:05.168 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:10:17.043 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:11:00.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+16:11:00.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+16:11:06.519 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:11:06.623 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:11:08.336 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:11:08.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:11:12.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:11:12.884 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:11:12.884 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:11:19.702 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:11:30.628 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:12:30.837 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+16:12:31.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+16:12:38.053 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:12:38.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:12:38.892 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:12:38.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:12:43.308 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:12:43.383 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:12:43.383 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:12:48.988 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:13:01.577 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:24:34.968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:24:35.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:24:41.092 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:24:41.216 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:24:42.387 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:24:42.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:24:46.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:24:46.872 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:24:46.872 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:24:53.036 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:25:04.009 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:27:53.042 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:27:53.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:27:59.013 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:27:59.122 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:28:00.658 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:28:00.661 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:28:04.419 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:28:06.192 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:28:06.192 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:28:14.044 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:29:55.721 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\USER\AppData\Local\Temp\testng-eclipse-1232648819\testng-customsuite.xml"
+16:29:55.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+16:29:55.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+16:29:55.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:55.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:55.999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:56.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:56.000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:56.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:56.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:56.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:29:56.002 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:29:56.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse-1232648819\testng-customsuite.xml
+
+16:29:56.032 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+16:29:56.344 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@32811494: 146 ms
+16:29:56.385 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d0d6318: 40 ms
+16:29:56.404 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@a4ca3f6: 18 ms
+16:29:56.416 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1c6804cd: 11 ms
+16:29:56.422 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6da00fb9: 6 ms
+16:29:56.422 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@a202ccb: 0 ms
+16:30:24.613 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:30:25.188 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:30:35.921 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:30:36.051 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:30:37.933 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:30:37.937 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:30:42.907 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:30:42.967 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:30:42.967 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:30:49.243 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:31:30.950 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:31:31.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:31:37.497 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:31:37.595 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:31:39.306 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:31:39.309 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:31:43.870 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:31:43.935 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:31:43.935 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:31:50.289 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:31:52.446 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:32:28.275 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:32:28.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:32:35.712 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:32:35.830 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:32:36.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:32:36.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:32:41.161 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:32:41.228 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:32:49.582 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:47:28.510 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml"
+16:47:28.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\grouping.xml
+
+16:47:36.061 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:47:36.176 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:47:36.891 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:47:36.895 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:47:41.327 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:47:41.389 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+16:47:41.389 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+16:47:48.431 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:18:00.305 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:18:00.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:18:09.921 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17:18:10.314 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:18:11.242 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:18:11.245 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:18:15.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:18:15.755 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+17:18:15.756 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug loads..
+17:18:20.668 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:19:20.604 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:19:20.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:19:27.954 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17:19:28.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:19:29.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:19:29.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:19:34.323 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:19:34.373 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17:19:40.821 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:19:43.107 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:20:17.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:20:17.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:20:23.116 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17:20:23.229 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:20:25.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:20:25.032 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:20:29.608 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:20:29.657 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17:20:35.847 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:21:13.378 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:21:13.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:22:57.807 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:22:58.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:23:09.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:23:09.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+17:33:31.145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:33:31.458 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+14:46:57.177 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+14:46:57.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+14:47:31.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+14:47:31.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+14:48:32.318 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+14:48:32.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+14:49:54.649 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+14:49:54.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+14:54:23.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+14:54:23.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:04:21.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:04:22.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:07:32.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:07:32.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:08:07.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:08:07.458 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:11:19.114 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:11:19.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:17:47.875 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:17:48.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:20:26.753 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:20:27.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:20:42.789 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:20:43.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:21:35.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:21:36.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:22:33.536 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:22:33.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:22:39.964 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:22:41.971 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:22:43.048 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:22:43.051 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:22:47.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:22:47.862 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:23:14.013 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:23:16.241 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:23:27.080 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:23:27.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:23:38.474 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:23:38.585 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:23:40.325 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:23:41.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:23:41.151 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:24:04.473 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:24:04.772 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:24:12.216 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:24:12.322 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:24:13.790 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:24:13.794 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:24:18.479 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:24:18.533 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:24:26.996 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:24:29.673 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:24:44.038 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:24:46.633 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:25:07.536 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:25:07.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:25:15.526 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:25:15.626 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:25:17.731 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:25:17.735 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:25:22.188 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:25:22.242 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:25:29.611 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:25:31.590 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:31:09.382 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:31:09.696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:33:10.124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:33:10.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:41:00.754 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:41:01.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:41:08.551 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:41:08.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:41:09.969 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:41:09.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:41:14.552 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:41:14.618 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:41:20.946 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:41:23.323 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:50:02.688 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+15:50:02.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+15:50:03.223 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:50:03.269 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:50:09.022 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:50:09.117 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:50:10.773 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:50:10.775 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:50:15.243 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:50:15.288 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:51:04.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:51:04.703 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
+
+15:51:10.960 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:51:11.099 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:51:12.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:51:12.069 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:51:16.745 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:51:16.814 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:51:23.962 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:51:25.998 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:53:32.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+15:53:32.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+15:53:32.759 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:53:32.760 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:53:38.741 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:53:38.882 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:53:40.430 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:53:40.432 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:53:45.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:53:45.096 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:58:07.492 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+15:58:07.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+15:58:08.083 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:17.753 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:17.937 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:58:19.196 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:58:19.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:58:22.944 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:58:23.045 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:58:24.186 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:58:24.255 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:58:25.651 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:58:25.652 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:58:30.485 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:58:30.535 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:59:59.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+15:59:59.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+16:00:08.961 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:00:09.090 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:00:11.523 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:00:11.634 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:00:12.424 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:00:12.427 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:00:13.591 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:00:13.592 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:00:17.094 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:00:17.148 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:00:18.339 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:00:18.386 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:01:08.248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+16:01:08.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+16:01:22.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:01:23.150 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:01:23.177 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:01:23.354 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:01:25.583 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:01:25.583 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:01:25.586 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:01:25.599 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:01:30.753 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:01:30.801 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:01:30.916 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:01:30.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:01:37.414 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:01:38.269 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:01:39.237 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:01:39.238 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:01:44.168 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:01:44.330 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:03:11.959 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml"
+16:03:12.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\crossbrowsertesting.xml
+
+16:03:25.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:03:26.163 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:03:26.573 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:03:26.668 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:03:28.808 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:03:28.810 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:03:30.030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:03:30.030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:03:33.551 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:03:33.597 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:03:34.701 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:03:34.750 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:03:35.877 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:03:36.176 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:03:39.480 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:03:39.482 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:03:44.043 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:03:44.076 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:28:10.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:28:10.890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+
+16:28:11.233 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:30:08.895 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:30:09.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+
+16:30:34.345 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:30:35.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:30:36.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:30:36.939 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:30:42.555 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:30:42.625 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:30:48.502 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:30:50.690 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:33:04.999 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:33:05.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+
+16:33:11.397 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:33:11.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:33:12.361 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:33:12.363 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:33:17.443 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:33:17.512 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:33:23.084 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:33:25.042 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:34:13.924 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:34:14.253 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+
+16:34:39.044 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:34:39.575 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:34:40.613 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:34:40.615 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:34:45.543 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:34:45.620 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:34:58.348 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:35:00.617 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:36:03.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:38:34.449 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:38:34.790 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+
