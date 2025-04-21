@@ -7,6 +7,7 @@ C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\testBase\BaseC
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\testCases\TC004_Search.java
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\utilities\DataProviders.java
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\utilities\ExcelUtility.java
 C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\src\test\java\utilities\ExtentReportManager.java

@@ -1,318 +1,178 @@
-16:42:34.599 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:42:35.082 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:42:36.050 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:42:36.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:42:40.685 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:42:40.736 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:42:54.427 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:42:56.699 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-15:27:54.057 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:29:56.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:31:44.119 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:32:39.413 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:32:39.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+15:55:48.886 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:55:49.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:55:50.509 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:55:50.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:55:55.038 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:55:55.083 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:55:59.760 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:56:03.935 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:11:28.650 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+16:11:40.362 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:11:40.555 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:11:42.395 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:11:42.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:11:49.058 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:11:49.152 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:11:54.755 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:11:57.464 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+16:12:12.214 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+16:12:12.533 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+16:12:13.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:12:13.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:12:18.104 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:12:18.157 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:12:37.577 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+16:12:40.434 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+17:14:00.795 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+17:14:01.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
 
-15:46:53.525 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:46:53.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+17:14:08.890 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17:14:09.032 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:14:10.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:14:10.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:14:14.542 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:14:14.585 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17:14:20.323 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:14:22.771 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:42:23.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+13:42:24.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
 
-15:47:50.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\testng.xml"
-15:47:50.714 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\testng.xml
-
-15:47:51.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:51.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:51.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:51.769 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:51.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:51.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:51.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:51.905 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:51.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:51.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:51.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:51.936 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:51.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:51.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:51.961 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:51.972 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:51.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:51.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:51.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:51.996 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.008 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.019 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.042 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.072 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.097 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.124 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.168 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.189 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.201 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.209 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.229 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.248 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.290 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:47:52.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:47:52.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:47:52.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:47:52.313 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:24.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\testng.xml"
-15:48:25.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\testng.xml
-
-15:48:34.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:34.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:34.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:34.864 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:34.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:34.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:34.955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:34.968 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:34.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:34.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:34.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:34.994 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.025 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.049 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.065 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.076 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.098 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.120 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.141 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.155 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.164 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.202 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.223 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.243 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.253 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.255 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.263 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.287 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.305 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:48:35.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-15:48:35.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-15:48:35.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-15:48:35.328 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-15:49:34.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:49:35.012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+13:42:33.497 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:42:33.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+13:42:34.792 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+13:42:34.836 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:42:39.390 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:42:39.440 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:42:45.682 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:42:47.639 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+13:49:24.580 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+13:49:24.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml
 
-15:49:45.449 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-15:49:45.569 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-15:49:47.134 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-15:49:47.140 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-15:49:51.790 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-15:49:51.851 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-15:50:00.763 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-15:50:06.356 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-15:51:42.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-15:51:49.312 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-15:51:49.438 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-15:51:50.082 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-15:51:50.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-15:51:54.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-15:51:54.724 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-15:52:00.118 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-15:52:02.920 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:12:49.843 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-16:12:55.920 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:12:56.048 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:12:57.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:12:57.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:13:01.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:13:01.812 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:13:08.904 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:13:10.842 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:47:19.427 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-16:47:26.648 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:47:26.774 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:47:27.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:47:27.961 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:47:32.413 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:47:32.474 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:47:38.309 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:47:40.509 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-17:37:51.734 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
-17:37:59.598 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-17:38:00.455 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-17:38:01.429 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-17:38:01.461 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-17:38:06.077 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-17:38:06.130 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-17:38:12.884 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-17:38:14.904 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-15:57:33.761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-15:57:34.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+13:49:32.259 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+13:49:32.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+13:49:33.545 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+13:49:33.547 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:49:38.216 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:49:38.269 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+13:49:45.002 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:49:47.195 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:49:12.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+14:49:13.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
 
-15:57:44.822 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-15:57:45.116 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-15:57:45.967 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-15:57:45.971 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-15:57:50.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-15:57:50.502 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-15:58:00.095 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-15:58:01.971 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-15:58:19.943 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-15:58:20.820 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-15:58:21.847 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-15:58:21.848 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-15:58:26.514 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-15:58:26.639 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-15:58:41.279 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-15:58:43.253 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:10:56.035 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-16:10:56.393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+14:49:21.355 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+14:49:21.527 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+14:49:22.339 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:49:22.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:49:27.233 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+14:49:27.306 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:49:32.881 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+14:49:34.889 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+14:49:54.893 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+14:49:55.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+14:49:56.477 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:49:56.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:50:01.189 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+14:50:01.249 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:50:17.769 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+14:50:20.163 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:03:26.661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+15:03:27.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
 
-16:11:03.862 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:11:03.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:11:05.235 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:11:05.241 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:11:09.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:11:09.933 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:11:18.185 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:11:20.127 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:11:31.044 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:11:31.407 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:11:32.291 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:11:32.292 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:11:37.577 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:11:37.613 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:11:47.425 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:11:50.047 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:12:16.355 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-16:12:16.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
+15:03:34.276 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:03:34.595 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:03:35.442 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:03:35.446 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:03:40.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:03:40.839 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:03:47.063 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:03:49.420 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:04:07.797 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:04:08.151 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:04:10.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:04:10.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:04:14.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:04:15.037 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:04:33.447 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:04:35.925 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:17:48.800 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
+15:17:57.147 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:17:57.278 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:17:58.213 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:17:58.218 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:18:02.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:18:02.830 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:18:10.835 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:18:13.705 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:18:45.411 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:18:46.764 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:18:48.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:18:48.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:18:53.251 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:18:54.138 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:19:11.258 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:19:13.287 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:22:38.172 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:22:45.554 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:22:45.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:22:46.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:22:46.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:22:51.726 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:22:51.795 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:22:59.323 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:23:01.256 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+15:25:08.355 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
+15:25:14.708 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:25:14.852 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+15:25:16.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:25:16.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:25:20.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:25:20.815 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:25:27.575 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+15:25:29.551 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:13:41.514 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\USER\AppData\Local\Temp\testng-eclipse--230458394\testng-customsuite.xml"
+12:13:41.793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:13:41.796 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:13:41.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.801 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.801 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.808 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:13:41.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+12:13:41.821 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.823 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.825 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.829 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.835 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.840 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:13:41.840 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:13:41.850 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse--230458394\testng-customsuite.xml
 
-16:12:24.948 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:12:25.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:12:26.721 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:12:26.725 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:12:31.313 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:12:31.362 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:12:38.752 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:12:41.294 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:12:51.565 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:12:51.853 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:12:52.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:12:52.608 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:12:57.239 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:12:57.269 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:13:08.760 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:13:11.265 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:14:20.739 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-16:14:30.388 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:14:30.515 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:14:31.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:14:31.704 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:14:36.277 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:14:36.337 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:14:41.525 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:14:46.773 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:15:06.354 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:15:08.233 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:23:57.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-16:23:57.484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
-
-16:24:03.220 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:24:05.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:24:06.446 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:24:06.449 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:24:11.170 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:24:11.229 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:24:16.267 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:24:20.676 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:24:32.913 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:24:33.201 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:24:34.062 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:24:34.062 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:26:02.288 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml"
-16:26:02.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\griddocker.xml
-
-16:26:09.765 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:26:09.929 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:26:10.600 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:26:10.604 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:26:15.429 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:26:15.509 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:26:21.147 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:26:23.160 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
-16:26:37.455 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
-16:26:37.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-16:26:38.825 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-16:26:38.826 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:26:43.776 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
-16:26:43.830 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
-16:26:58.401 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
-16:27:00.667 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:13:41.872 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+12:13:42.197 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@53dacd14: 171 ms
+12:13:42.252 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4409e975: 55 ms
+12:13:42.270 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@31aa3ca5: 17 ms
+12:13:42.279 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@549949be: 9 ms
+12:13:42.303 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a202ccb: 23 ms
+12:13:42.303 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@20f12539: 0 ms
+17:47:36.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\Selenium_Framework\master.xml"
